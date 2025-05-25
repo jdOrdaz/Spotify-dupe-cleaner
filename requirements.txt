@@ -1,14 +1,3 @@
-Spotify dev account (really simple and easy! Just a short websearch away.)
-Libraries to install: pandas, spotipy, tabulate
-
-## 🛠 Installation
-
-1. **Get a Spotify Developer Account**  
-   - Visit [developer.spotify.com](https://developer.spotify.com)
-   - Create an app and get your **Client ID**, **Client Secret**, and **Redirect URI**
-   - These are needed to authenticate with the Spotify API
-
-2. **Clone the Repository**
-   ```bash
-   git clone https://github.com/yourusername/spotify-genre-dupe-cleaner.git
-   cd spotify-genre-dupe-cleaner
+spotipy
+pandas
+tabulate
